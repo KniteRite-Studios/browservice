@@ -85,6 +85,7 @@ The following historical OS-browser-combinations have been confirmed to work as 
 | Windows XP SP3               | Chrome 1.0.154             |                |
 | Windows XP SP3               | Chrome 49.0.2623           |                |
 | Debian GNU/Linux 3.1 "Sarge" | Firefox 1.0.4              |                |
+| Nintendo Wii IOS 4.3.        | Opera 9.0.0                |                |
 
 1. PNG is not supported.
 2. The mouse cursor flickers between the true cursor and an hourglass.
